@@ -1,0 +1,48 @@
+.container{
+    margin-top: 50px;
+    margin-left:40px;
+    display: flex;
+}
+.main{
+     background-color: gray;
+    width: 250px;
+    padding: 10px;
+}
+ 
+li{
+    color: white;
+}
+
+ul li{
+    list-style-type: none;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+.count{
+    background-color: blue;
+    width:550px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+button{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 5px;
+    padding: 6px;
+}
+ .one{
+    background-color: orange;
+}
+.two{
+    background-color: green;
+}
+.three{
+    background-color: skyblue;
+}

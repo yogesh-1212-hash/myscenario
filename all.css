@@ -1,0 +1,58 @@
+
+.first{
+    display:flex ;
+    background-color: orange;
+    width: 1250px;
+    margin-top: 100px;
+    margin-left: 100px;
+    clear: both;
+}
+.row{
+    display: flex;
+    clear: left;
+}
+
+.main{
+    background-color: gray;
+   width: 250px;
+   padding: 10px;
+}
+
+li{
+   color: white;
+}
+
+ul li{
+   list-style-type: none;
+   font-size: 25px;
+   margin-top: 20px;
+}
+
+ul li a{
+   text-decoration: none;
+}
+button{
+    margin-top: 30px;
+    font-size: 17px;
+    margin-left:5px;
+    padding-right: 20px;
+}
+.btn{
+    margin-left: 90px;
+}
+ .one{
+    background-color: orange;
+}
+.two{
+    background-color: green;
+}
+.three{
+    background-color: skyblue;
+}
+table{
+    font-size: 22px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 1px solid;
+}
+

@@ -1,0 +1,39 @@
+.container{
+    margin-top: 50px;
+    margin-left:40px;
+    display: flex;
+}
+.main{
+     background-color: gray;
+    width: 250px;
+    padding: 10px;
+}
+ 
+li{
+    color: bisque;
+}
+
+ul li{
+    list-style-type: none;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+}
+.min{
+    background-color: brown;
+    width: 652px;
+
+}
+.text{
+    margin-left: 50px;
+}
+button{
+    margin-top: 20px;
+}
+form{
+    background-color: aquamarine;
+    padding: 20px;
+}
